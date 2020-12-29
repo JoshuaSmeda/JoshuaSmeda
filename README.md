@@ -1,9 +1,9 @@
 ### Hi there, I'm Joshua 👋
 
-## I'm a Linux engineer who likes to dabble in development!
+## I'm a Linux engineer who enjoys software development!
 - 🌱 I’m currently learning Angular
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to surf!
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to surf and swim!
 
 ### Connect with me:
 
