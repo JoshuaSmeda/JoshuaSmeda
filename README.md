@@ -1,6 +1,6 @@
 ### Hi there, I'm Joshua 👋
 
-## I'm a Linux engineer who enjoys software development!
+## I'm a Linux engineer who enjoys software development & automation!
 - 🌱 I’m currently learning React and Golang
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to surf and swim!
