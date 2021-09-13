@@ -2,20 +2,20 @@ const userData = {
   githubUsername: "JoshuaSmeda",
   name: "Joshua Smeda",
   designation: "DevOps Engineer",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "/joshua.jpg",
   email: "smeda.josh14@gmail.com",
-  phone: "+27 796915438",
+  phone: "+27 79 691 5438",
   address: "Blouberg Rise, Cape Town, South Africa.",
   projects: [
     {
       title: "Elastalert Hive Alerter",
       link: "https://github.com/Nclose-ZA/elastalert_hive_alerter",
-      imgUrl: "/tmk.jpg",
+      imgUrl: "/elastalert_hive_alerter.png",
     },
     {
       title: "TheHive SLA Monitor",
       link: "https://github.com/JoshuaSmeda/thehive_sla_monitor",
-      imgUrl: "/placeholdertech.png",
+      imgUrl: "/thehive_sla_monitor.png",
     },
     {
       title: "Portfolio",
@@ -65,14 +65,14 @@ const userData = {
       company: "xneelo",
       year: "2020",
       companyLink: "https://xneelo.com",
-      desc: "Contributing to our flagship hosting platform - which is our biggest revenue generator which hosts over 1 million (that's right) websites!",
+      desc: "Contributing to our flagship hosting platform - which is our biggest revenue generator which hosts over 1 million - that's right - websites!",
     },
     {
       title: "DevOps Engineer",
       company: "Nclose",
       year: "2018",
       companyLink: "https://nclose.com",
-      desc: "Contributed and developed a anomaly-based detection ingestion service, which consumed more than 100+ terabytes of security logs for threat analysis. Used by major South African fintech companies.",
+      desc: "Contributed and developed an anomaly-based detection ingestion service, which consumed more than 100+ terabytes of security logs for threat analysis. Used by major South African fintech companies. Did a-lot of dev stuff too, great company!",
     },
     {
       title: "Hosting Engineer",
