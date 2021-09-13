@@ -52,12 +52,12 @@ const userData = {
     title:
       "I'm a devops engineer that loves building products and web applications that impact thousands of lives",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `I've been developing full-stack applications since I was about 15 years old, in Java. I didn't know what I was really doing back then, still don't think I do. I've mostly being working in Infrastructure, so I write a lot of Infrastructure as Code now (IAC).`,
+      `I really enjoy web-development, even though it's the bane of my life since it's relatively complex to pick up - you need to know a lot of languages to be successful. Thank God for Bootstrap!`,
+      `I've been coding in React, Java, Python, a-little bit of Ruby and Go-lang, Typescript, MySQL, Bootstrap, and Assembly - just kidding! - to name a few. Although I barely know the syntax (Psst, Stack overflow!),`,
     ],
-    currentProject: "SaaS - K3s",
-    //currentProjectUrl: "https://bro-check-my-site.co.za",
+    currentProject: "bro, check my site!",
+    currentProjectUrl: "https://github.com/JoshuaSmeda/bro-check-my-site",
   },
   experience: [
     {
@@ -111,13 +111,10 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://www.linkedin.com/in/joshua-smeda-7b9102103",
   socialLinks: {
-    //instagram: "https://instagram.com/maninthere",
-    //twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
-    //facebook: "https://facebook.com/",
+    linkedin: "https://www.linkedin.com/in/joshua-smeda-7b9102103",
+    github: "https://github.com/JoshuaSmeda",
   },
 };
 
